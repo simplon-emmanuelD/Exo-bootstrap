@@ -1,0 +1,51 @@
+div {
+border: 0px solid black;
+
+
+}
+
+#test{
+background-color: yellow;
+}
+
+#C2{
+background-color: blue;
+}
+
+#C3{
+background-color: red;
+}
+
+#C4{
+background-color: green;
+}
+
+#C5{
+background-color: red;
+}
+
+#C6{
+background-color: yellow;
+}
+
+#C7{
+background-color: yellow;
+}
+
+#C8{
+background-color: red;
+}
+
+#C9{
+background-color: blue;
+}
+
+#C10{
+background-color: red;
+}
+
+#C11{
+background-color: red;
+}
+
+
